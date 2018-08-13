@@ -1,2 +1,2 @@
 # GitPractise
-Practise git skill
+Practise git skill with two account.
